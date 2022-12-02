@@ -1,0 +1,39 @@
+{
+	"storyName": "You Cant Run Encore",
+	"difficulties": "encore",
+	"hideFreeplay": false,
+	"weekBackground": "ycr",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"you-cant-run",
+			"ycr",
+			[
+				255,
+				0,
+				33
+			]
+		],
+		[
+			"you-cant-run-rtx",
+			"ycr-rtx",
+			[
+				26,
+				0,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Encore"
+}
