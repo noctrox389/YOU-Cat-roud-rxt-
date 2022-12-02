@@ -1,0 +1,2 @@
+value 1: character to change (dad,bf,gf) (case sensitive)!!!!!!!!
+value 2: true - visible, false - not visible
