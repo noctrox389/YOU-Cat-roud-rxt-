@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ring2.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ring20000" x="0" y="0" width="128" height="128"/>
+	<SubTexture name="ring20001" x="0" y="0" width="128" height="128"/>
+	<SubTexture name="ring20002" x="0" y="0" width="128" height="128"/>
+	<SubTexture name="ring20003" x="0" y="0" width="128" height="128"/>
+	<SubTexture name="ring20004" x="128" y="0" width="128" height="128"/>
+	<SubTexture name="ring20005" x="128" y="0" width="128" height="128"/>
+	<SubTexture name="ring20006" x="128" y="0" width="128" height="128"/>
+	<SubTexture name="ring20007" x="128" y="0" width="128" height="128"/>
+	<SubTexture name="ring20008" x="0" y="128" width="128" height="128"/>
+	<SubTexture name="ring20009" x="0" y="128" width="128" height="128"/>
+	<SubTexture name="ring20010" x="0" y="128" width="128" height="128"/>
+	<SubTexture name="ring20011" x="0" y="128" width="128" height="128"/>
+	<SubTexture name="ring20012" x="128" y="128" width="128" height="128"/>
+	<SubTexture name="ring20013" x="128" y="128" width="128" height="128"/>
+	<SubTexture name="ring20014" x="128" y="128" width="128" height="128"/>
+	<SubTexture name="ring20015" x="128" y="128" width="128" height="128"/>
+</TextureAtlas>
